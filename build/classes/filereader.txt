@@ -1,0 +1,35 @@
+String a;
+String b;
+String a = 0;
+private int getVoice() {
+int b = a + 10;
+method;
+getvoice();
+}
+public String getName(){
+getVoice();
+getInt();
+}
+
+public String getString() {
+mathod;
+string x;
+getString();
+getString(a,b);
+int b = test + 10;
+c = a + b;
+c = "abcd" + c;
+}
+
+private int getInt() {
+int count = a + b + c + d;
+getInt();
+getString();
+}
+private int getFloat() {
+}
+public String host(){
+}
+String c;
+String b;
+
